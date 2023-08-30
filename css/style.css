@@ -93,10 +93,16 @@
 .navbar .navbar-brand {
     position: absolute;
     padding: 0;
-    width: 170px;
-    height: 135px;
+    width: 80px;
+    height: 80px;
     top: 0;
     left: 0;
+}
+
+.navbar-brand img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
 }
 
 .navbar .navbar-nav .nav-link {
