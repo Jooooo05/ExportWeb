@@ -93,8 +93,13 @@
 .navbar .navbar-brand {
     position: absolute;
     padding: 0;
+<<<<<<< HEAD
     width: 80px;
     height: 80px;
+=======
+    width: 100px;
+    height: 70px;
+>>>>>>> joBranch
     top: 0;
     left: 0;
 }
